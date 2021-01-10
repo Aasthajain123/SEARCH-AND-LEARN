@@ -6,13 +6,13 @@ It does all the tedious job and brings all the significant details about tutoria
 
 ### Development
 
--   Install Backend Dependencies.
+-   Install all Backend Dependencies.
 
 ```sh
 npm install
 ```
 
--   Install Frontend Dependencies.
+-   Install all Frontend Dependencies.
 
 ```sh
 npm run client-install
